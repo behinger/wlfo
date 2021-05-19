@@ -22,7 +22,7 @@ if status ~=0
     
 end
 % delete temporary file
-%delete('tmp.csv')
+delete('tmp.csv')
 
 % read it in matlab
 tRemo = readtable('remodnav_out.tsv','FileType','text');
