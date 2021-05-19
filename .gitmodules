@@ -1,0 +1,6 @@
+[submodule "lib/deep_em_classifier"]
+	path = lib/deep_em_classifier
+	url = https://github.com/MikhailStartsev/deep_em_classifier
+[submodule "lib/sp_tool"]
+	path = lib/sp_tool
+	url = https://github.com/MikhailStartsev/sp_tool/
